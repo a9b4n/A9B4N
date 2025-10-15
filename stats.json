@@ -1,0 +1,14 @@
+{
+    "total_sent": 0,
+    "last_run": null,
+    "groups": {
+        "2196215919": {
+            "sent": 0,
+            "failed": 1
+        },
+        "2000383834": {
+            "sent": 0,
+            "failed": 0
+        }
+    }
+}
